@@ -17,10 +17,10 @@ class account{
 
 
 }
-int blnc(int depo, int with, int available){
+int blnc(int deps, int with, int available){
 
     
-    account.balance = available + depo - with;
+    account.balance = available + dep - with;
 
 }
 
